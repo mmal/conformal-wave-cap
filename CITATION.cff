@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: If you use this code or the accompanying data in your research, please cite the paper specified in preferred-citation.
 type: software
-title: "conformal-wave-cap: verification code for ``New time-periodic solutions to the cubic conformal wave equation on $\mathbb{S}^{3}$: I Spherical symmetry''"
+title: >-
+  conformal-wave-cap: verification code for ``New time-periodic solutions to the cubic conformal wave equation on $\mathbb{S}^{3}$: I Spherical symmetry''
 authors:
   - family-names: "Ficek"
     given-names: "Filip"
@@ -14,7 +15,8 @@ date-released: "2026-10-26"
 preferred-citation:
   type: article
   status: preprint
-  title: "New time-periodic solutions to the cubic conformal wave equation on $\mathbb{S}^{3}$: I Spherical symmetry"
+  title: >-
+    New time-periodic solutions to the cubic conformal wave equation on $\mathbb{S}^{3}$: I Spherical symmetry
   authors:
     - family-names: "Ficek"
       given-names: "Filip"
