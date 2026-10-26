@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use this code or the accompanying data in your research, please cite the paper specified in preferred-citation.
+type: software
+title: "conformal-wave-cap: verification code for ``New time-periodic solutions to the cubic conformal wave equation on $\mathbb{S}^{3}$: I Spherical symmetry''"
+authors:
+  - family-names: "Ficek"
+    given-names: "Filip"
+  - family-names: "Maliborski"
+    given-names: "Maciej"
+url: "https://github.com/mmal/conformal-wave-cap"
+license: MIT
+version: "0.1"
+date-released: "2026-10-26"
+preferred-citation:
+  type: article
+  status: preprint
+  title: "New time-periodic solutions to the cubic conformal wave equation on $\mathbb{S}^{3}$: I Spherical symmetry"
+  authors:
+    - family-names: "Ficek"
+      given-names: "Filip"
+    - family-names: "Maliborski"
+      given-names: "Maciej"
+  year: "2026"
+  journal: "arXiv"
+  url: "https://arxiv.org/abs/2610.32600"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.32600"
+      description: "The arXiv preprint."
